@@ -1,0 +1,2 @@
+# Needleman_Wunsch
+This repository contains a manual implementation of sequence alignment dynamic programming algorithms [Needleman-Wunsch](https://pubmed.ncbi.nlm.nih.gov/5420325/) and [Smith-Waterman](https://pubmed.ncbi.nlm.nih.gov/7265238/).  Both algorithms are evaluated for time and space complexity using both simple data with logically obvious outputs and real protein data (dystrophin genes from three species).  This notebook was produced for EN.605.621: Foundations of Algorithms at Johns Hopkins University.
